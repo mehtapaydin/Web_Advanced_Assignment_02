@@ -1,0 +1,20 @@
+{
+  "name": "google-cloud-api-sample",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "author <foo@example.com>"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.8"
+  }
+}
